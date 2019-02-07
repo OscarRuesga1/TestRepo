@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Linea 1 por Dev2 
 Linea 2 por Dev2 
+=======
+Linea 1 Dev3 
+>>>>>>> Dev3
